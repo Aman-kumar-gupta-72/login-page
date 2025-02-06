@@ -12,6 +12,10 @@ function AdvanCounter() {
         if(count>0)
         setCount(count-value)
     }
+
+
+
+    
    
   
     return (
